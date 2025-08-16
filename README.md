@@ -6,7 +6,7 @@ This project focuses on detecting and blocking bullying content in social media 
 
 You can try the live application hosted on Hugging Face Spaces:
 
-**➡️ [Try the Live App Here!](httpshttps://huggingface.co/spaces/Codeszz/Cyberbullying)**
+**➡️ [Try the Live App Here!](https://huggingface.co/spaces/Codeszz/Cyberbullying)**
 
 ---
 

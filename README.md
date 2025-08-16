@@ -36,7 +36,7 @@ To run the project locally, follow these steps:
 
 2) Create and activate a virtual environment:
 
-   - For Windows
+   - For Windows : 
    python -m venv .venv
    .\.venv\Scripts\Activate
 
